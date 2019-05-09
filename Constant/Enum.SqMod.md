@@ -2,7 +2,7 @@
 
 A set of values that are required by some of the underlying code and could change depending on the compiler, architecture or even after changes to the plugin. They're only made available to avoid hard-coded values in production code. Some of them are necessary while some of them are almost optional for most people. But they're exported simply to expose as much as possible of the underlying implementation.
 
-----
+# Specifications
 
 ```D
 enum SqMod

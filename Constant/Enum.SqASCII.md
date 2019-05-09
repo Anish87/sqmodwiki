@@ -2,7 +2,7 @@
 
 Identifies ASCII characters.
 
-----
+# Specifications
 
 ```D
 enum SqWep

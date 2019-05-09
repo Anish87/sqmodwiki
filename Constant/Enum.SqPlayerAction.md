@@ -2,7 +2,7 @@
 
 Identifies a certain player action.
 
-----
+# Specifications
 
 ```D
 enum SqPlayerAction

@@ -2,7 +2,7 @@
 
 Identifies a character body part. Mostly used to identify where the final blow occurred when a player was killed.
 
-----
+# Specifications
 
 ```D
 enum SqBodyPart

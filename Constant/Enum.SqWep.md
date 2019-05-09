@@ -2,7 +2,7 @@
 
 Identifies weapons.
 
-----
+# Specifications
 
 ```D
 enum SqWep

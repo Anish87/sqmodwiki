@@ -2,7 +2,7 @@
 
 Identifies vehicles.
 
-----
+# Specifications
 
 ```D
 enum SqVeh

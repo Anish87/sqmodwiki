@@ -2,7 +2,7 @@
 
 Several sample reasons why an entity is being created. These identifiers will be in the header parameter if the plug-in created that entity automatically or the user specified them manually. Otherwise they won't be used. The values in these enumeration elements will always be negative to allow the distinction between player identifiers and plug-in identifiers.
 
-----
+# Specifications
 
 ```D
 enum SqCreate

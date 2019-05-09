@@ -2,7 +2,7 @@
 
 Used to identify the architecture that the plug-in currently running on. See [SqMod.Architecture](Enum.SqMod) for the current architecture and compare it to any of the elements in this enumeration.
 
-----
+# Specifications
 
 ```D
 enum SqArchitectre

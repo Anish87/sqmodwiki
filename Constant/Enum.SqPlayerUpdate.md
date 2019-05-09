@@ -2,7 +2,7 @@
 
 Specifies what kind of update occurred on a player.
 
-----
+# Specifications
 
 ```D
 enum SqPlayerUpdate

@@ -2,7 +2,7 @@
 
 Identifies the world weather.
 
-----
+# Specifications
 
 ```D
 enum SqWeather

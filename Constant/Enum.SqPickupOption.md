@@ -2,7 +2,7 @@
 
 Identifies pickup options that can be modified.
 
-----
+# Specifications
 
 ```D
 enum SqPickupOption

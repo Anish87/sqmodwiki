@@ -2,7 +2,7 @@
 
 Specifies why a player disconnected from the server.
 
-----
+# Specifications
 
 ```D
 enum SqPartReason

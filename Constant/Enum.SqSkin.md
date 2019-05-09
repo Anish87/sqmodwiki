@@ -2,7 +2,7 @@
 
 Identifies skin.
 
-----
+# Specifications
 
 ```D
 enum SqSkin

@@ -2,7 +2,7 @@
 
 Identifies server options that can be modified.
 
-----
+# Specifications
 
 ```D
 enum SqServerOption

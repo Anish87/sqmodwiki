@@ -2,7 +2,7 @@
 
 Identifies the player state in regards to vehicles.
 
-----
+# Specifications
 
 ```D
 enum SqPlayerVehicle

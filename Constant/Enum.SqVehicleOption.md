@@ -2,7 +2,7 @@
 
 Identifies vehicle options that can be modified.
 
-----
+# Specifications
 
 ```D
 enum SqVehicleOption

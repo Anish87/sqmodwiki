@@ -2,7 +2,7 @@
 
 Identifies player options that can be modified.
 
-----
+# Specifications
 
 ```D
 enum SqPlayerOption

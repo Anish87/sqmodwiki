@@ -2,7 +2,7 @@
 
 Identifies the vehicle synchronization type.
 
-----
+# Specifications
 
 ```D
 enum SqVehicleSync

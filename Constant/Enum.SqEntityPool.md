@@ -2,7 +2,7 @@
 
 Specifies which entity pool was updated.
 
-----
+# Specifications
 
 ```D
 enum SqEntityPool

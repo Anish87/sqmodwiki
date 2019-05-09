@@ -2,7 +2,7 @@
 
 Identifies key-codes.
 
-----
+# Specifications
 
 ```D
 enum SqWep

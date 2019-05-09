@@ -2,7 +2,7 @@
 
 Identifies a certain player state.
 
-----
+# Specifications
 
 ```D
 enum SqPlayerState

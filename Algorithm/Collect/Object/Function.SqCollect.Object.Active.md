@@ -1,6 +1,6 @@
 # Description
 
-Collect into a container all the active object entity instances.
+Collect into a container all the active [SqObject](Class.SqObject) instances.
 
 # Specifications
 
@@ -15,7 +15,7 @@ SqCollect.Object.Active
 * **Parameters**:
 	* *This function does not take any parameters.*
 * **Return**:
-	* `array` An array with all entity instances that matched the specified criteria.
+	* `array` An array with all [SqObject](Class.SqObject) instances that matched the specified criteria.
 * **Throws**:
 	* This function may throw errors if any element fails to be appended to the array (*most likely due to memory limitations*).
 

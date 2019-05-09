@@ -1,6 +1,6 @@
 # Description
 
-Collect into a container all the active keybind entity instances.
+Collect into a container all the active [SqKeybind](Class.SqKeybind) instances.
 
 # Specifications
 
@@ -15,7 +15,7 @@ SqCollect.Keybind.Active
 * **Parameters**:
 	* *This function does not take any parameters.*
 * **Return**:
-	* `array` An array with all entity instances that matched the specified criteria.
+	* `array` An array with all [SqKeybind](Class.SqKeybind) instances that matched the specified criteria.
 * **Throws**:
 	* This function may throw errors if any element fails to be appended to the array (*most likely due to memory limitations*).
 

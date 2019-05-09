@@ -1,6 +1,6 @@
 # Description
 
-Collect into a container all the active Player entity instances where the tag ends with the specified value.
+Collect into a container all the active [SqPlayer](Class.SqPlayer) instances where the tag ends with the specified value.
 
 # Specifications
 
@@ -15,9 +15,9 @@ SqCollect.Player.TagEnds
 * **Parameters**:
 	* **_negate_** `bool` *The value `true` to negate the result of the comparison, `false` otherwise.*
 	* **_sensitive_** `bool` *The value `true` to perform a case sensitive comparison, `false` otherwise.*
-	* **_value_** `string` *The string value that should be searched for in the tag of each active entity instance.*
+	* **_value_** `string` *The string value that should be searched for in the tag of each active [SqPlayer](Class.SqPlayer) instance.*
 * **Return**:
-	* `array` An array with all entity instances that matched the specified criteria.
+	* `array` An array with all [SqPlayer](Class.SqPlayer) instances that matched the specified criteria.
 * **Throws**:
 	* This function may throw errors if any element fails to be appended to the array (*most likely due to memory limitations*).
 

@@ -47,3 +47,15 @@ The **VC:MP Squirrel Module** is a plugin that can be loaded by the **VC:MP** se
 * `class` [Vector2i](Class.Vector2i)
 * `class` [Vector3](Class.Vector3)
 * `class` [Vector4](Class.Vector4)
+
+----
+
+## Entity Types
+
+* `class` [SqBlip](Class.SqBlip)
+* `class` [SqCheckpoint](Class.SqCheckpoint)
+* `class` [SqKeybind](Class.SqKeybind)
+* `class` [SqObject](Class.SqObject)
+* `class` [SqPickup](Class.SqPickup)
+* `class` [SqPlayer](Class.SqPlayer)
+* `class` [SqVehicle](Class.SqVehicle)

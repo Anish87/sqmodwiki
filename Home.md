@@ -6,8 +6,6 @@ The **VC:MP Squirrel Module** is a plugin that can be loaded by the **VC:MP** se
 
 ## Constants
 
-----
-
 * `enum` [SqMod](Enum.SqMod)
 * `enum` [SqArchitecture](Enum.SqArchitecture)
 * `enum` [SqPlatform](Enum.SqPlatform)
@@ -38,8 +36,6 @@ The **VC:MP Squirrel Module** is a plugin that can be loaded by the **VC:MP** se
 ----
 
 ## Base Types
-
-----
 
 * `class` [AABB](Class.AABB)
 * `class` [Circle](Class.Circle)

@@ -51,6 +51,11 @@ Fast built in functions to collect every entity instance that matches a certain 
 	* `function` [TagEnds](Function.SqCollect.Player.TagEnds)
 	* `function` [TagContains](Function.SqCollect.Player.TagContains)
 	* `function` [TagMatches](Function.SqCollect.Player.TagMatches)
+	* `function` [NameEquals](Function.SqCollect.Player.NameEquals)
+	* `function` [NameBegins](Function.SqCollect.Player.NameBegins)
+	* `function` [NameEnds](Function.SqCollect.Player.NameEnds)
+	* `function` [NameContains](Function.SqCollect.Player.NameContains)
+	* `function` [NameMatches](Function.SqCollect.Player.NameMatches)
 
 * `table` Vehicle
 	* `function` [Active](Function.SqCollect.Vehicle.Active)

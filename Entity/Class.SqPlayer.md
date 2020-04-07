@@ -15,15 +15,6 @@ Used to represent a player instance in the game.
 
 ## Member Properties
 
-* `integer` [BufferInitSize](Property.SqPlayer.BufferInitSize)
-* `integer` [MessageColor](Property.SqPlayer.MessageColor)
-* `integer` [AnnounceStyle](Property.SqPlayer.AnnounceStyle)
-* `integer` [DefaultAmmo](Property.SqPlayer.DefaultAmmo)
-* `string` [MessagePrefix](Property.SqPlayer.MessagePrefix)
-* `string` [MessagePostfix](Property.SqPlayer.MessagePostfix)
-* `string` [AnnouncePrefix](Property.SqPlayer.AnnouncePrefix)
-* `string` [AnnouncePostfix](Property.SqPlayer.AnnouncePostfix)
-* `bool` [LimitPrefixPostfixMessage](Property.SqPlayer.LimitPrefixPostfixMessage)
 * `table` [On](Property.SqPlayer.On)
 * `integer` [ID](Property.SqPlayer.ID)
 * `string` [Tag](Property.SqPlayer.Tag)
@@ -104,9 +95,20 @@ Used to represent a player instance in the game.
 * `integer` [Red](Property.SqPlayer.Red)
 * `integer` [Green](Property.SqPlayer.Green)
 * `integer` [Blue](Property.SqPlayer.Blue)
+* `integer` [BufferInitSize](Property.SqPlayer.BufferInitSize)
+* `integer` [MessageColor](Property.SqPlayer.MessageColor)
+* `integer` [AnnounceStyle](Property.SqPlayer.AnnounceStyle)
+* `integer` [DefaultAmmo](Property.SqPlayer.DefaultAmmo)
+* `string` [MessagePrefix](Property.SqPlayer.MessagePrefix)
+* `string` [MessagePostfix](Property.SqPlayer.MessagePostfix)
+* `string` [AnnouncePrefix](Property.SqPlayer.AnnouncePrefix)
+* `string` [AnnouncePostfix](Property.SqPlayer.AnnouncePostfix)
+* `bool` [LimitPrefixPostfixMessage](Property.SqPlayer.LimitPrefixPostfixMessage)
 
 ## Member Methods
 
+* `function` [SetTag](Function.SqPlayer.SetTag)
+* `function` [CustomEvent](Function.SqPlayer.CustomEvent)
 * `function` [StreamedFor](Function.SqPlayer.StreamedFor)
 * `function` [Kill](Function.SqPlayer.Kill)
 * `function` [Kick](Function.SqPlayer.Kick)

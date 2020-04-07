@@ -69,3 +69,10 @@ The **VC:MP Squirrel Module** is a plugin that can be loaded by the **VC:MP** se
 * `table` [SqForeach](Table.SqForeach)
 * `table` [SqForeachEx](Table.SqForeachEx)
 * `table` [SqCount](Table.SqCount)
+
+
+----
+
+## Miscellaneous Types
+
+* `class` [SqSignalBase](Class.SqSignalBase)

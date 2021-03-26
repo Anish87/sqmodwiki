@@ -54,7 +54,7 @@ The **VC:MP Squirrel Module** is a plugin that can be loaded by the **VC:MP** se
 
 * `class` [SqBlip](Class.SqBlip)
 * `class` [SqCheckpoint](Class.SqCheckpoint)
-* `class` [SqKeybind](Class.SqKeybind)
+* `class` [SqKeyBind](Class.SqKeyBind)
 * `class` [SqObject](Class.SqObject)
 * `class` [SqPickup](Class.SqPickup)
 * `class` [SqPlayer](Class.SqPlayer)
@@ -70,6 +70,11 @@ The **VC:MP Squirrel Module** is a plugin that can be loaded by the **VC:MP** se
 * `table` [SqForeachEx](Table.SqForeachEx)
 * `table` [SqCount](Table.SqCount)
 
+----
+
+## Modules
+
+* `table` [SqData](Class.SqData)
 
 ----
 

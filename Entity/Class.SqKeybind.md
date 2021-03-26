@@ -6,42 +6,42 @@ Used to represent a keybind instance in the game.
 
 ## Aliases:
 
-* `class` SqKeybind
+* `class` SqKeyBind
 
 ## Meta-methods
 
-* `function` [\_typename](Function.SqKeybind._typename)
-* `function` [\_tostring](Function.SqKeybind._tostring)
+* `function` [\_typename](Function.SqKeyBind._typename)
+* `function` [\_tostring](Function.SqKeyBind._tostring)
 
 ## Member Properties
 
-* `table` [On](Property.SqKeybind.On)
-* `integer` [ID](Property.SqKeybind.ID)
-* `string` [Tag](Property.SqKeybind.Tag)
-* `object` [Data](Property.SqKeybind.Data)
-* `bool` [Active](Property.SqKeybind.Active)
-* `integer` [First](Property.SqKeybind.First)
-* `integer` [Second](Property.SqKeybind.Second)
-* `integer` [Third](Property.SqKeybind.Third)
-* `bool` [Release](Property.SqKeybind.Release)
+* `table` [On](Property.SqKeyBind.On)
+* `integer` [ID](Property.SqKeyBind.ID)
+* `string` [Tag](Property.SqKeyBind.Tag)
+* `object` [Data](Property.SqKeyBind.Data)
+* `bool` [Active](Property.SqKeyBind.Active)
+* `integer` [First](Property.SqKeyBind.First)
+* `integer` [Second](Property.SqKeyBind.Second)
+* `integer` [Third](Property.SqKeyBind.Third)
+* `bool` [Release](Property.SqKeyBind.Release)
 
 ## Member Methods
 
-* `function` [SetTag](Function.SqKeybind.SetTag)
-* `function` [CustomEvent](Function.SqKeybind.CustomEvent)
-* `function` [Destroy](Function.SqKeybind.Destroy)
-* `function` [NullInst](Function.SqKeybind.NullInst)
-* `function` [MakeTask](Function.SqKeybind.MakeTask)
-* `function` [DropTask](Function.SqKeybind.DropTask)
-* `function` [DoesTask](Function.SqKeybind.DoesTask)
-* `function` [FindTask](Function.SqKeybind.FindTask)
+* `function` [SetTag](Function.SqKeyBind.SetTag)
+* `function` [CustomEvent](Function.SqKeyBind.CustomEvent)
+* `function` [Destroy](Function.SqKeyBind.Destroy)
+* `function` [NullInst](Function.SqKeyBind.NullInst)
+* `function` [MakeTask](Function.SqKeyBind.MakeTask)
+* `function` [DropTask](Function.SqKeyBind.DropTask)
+* `function` [DoesTask](Function.SqKeyBind.DoesTask)
+* `function` [FindTask](Function.SqKeyBind.FindTask)
 
 ## Static Properties
 
-* `integer` [MaxID](Property.SqKeybind.MaxID)
+* `integer` [MaxID](Property.SqKeyBind.MaxID)
 
 ## Static Methods
 
-* `function` [Create](Function.SqKeybind.Create)
-* `function` [CreateEx](Function.SqKeybind.CreateEx)
-* `function` [UnusedSlot](Function.SqKeybind.UnusedSlot)
+* `function` [Create](Function.SqKeyBind.Create)
+* `function` [CreateEx](Function.SqKeyBind.CreateEx)
+* `function` [UnusedSlot](Function.SqKeyBind.UnusedSlot)
